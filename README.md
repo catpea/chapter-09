@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Build Up Your Endurance; Or, Endurance As A Multiplier](docs/poem-1419.mp3)
 - [Visual Programming: The Worlds](docs/poem-1418.mp3)
 - [The Reason Nobody Dares, To Tell You About The Art Of Fighting Bears](docs/poem-1417.mp3)
 - [Camping For Health](docs/poem-1416.mp3)
