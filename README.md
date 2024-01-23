@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Of The Horse And The Philosopher; Or, Don’t Lift Too Heavy Because A Workout Is Non-Stop](docs/poem-1422.mp3)
 - [Do Not Wait, Dance To Lose Weight](docs/poem-1421.mp3)
 - [The Only Thing That Ever Worked Was Adding More Hours: Or; How To Quickly Transform Your Body](docs/poem-1420.mp3)
 - [Build Up Your Endurance; Or, Endurance As A Multiplier](docs/poem-1419.mp3)
