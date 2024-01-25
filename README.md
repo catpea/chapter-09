@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Secret Society Of Extraordinary Kitties: Full Disclosure](docs/poem-1424.mp3)
 - [And Now An Important Message From The Smartest Leader Of Kittens](docs/poem-1423.mp3)
 - [Of The Horse And The Philosopher; Or, Don’t Lift Too Heavy Because A Workout Is Non-Stop](docs/poem-1422.mp3)
 - [Do Not Wait, Dance To Lose Weight](docs/poem-1421.mp3)
