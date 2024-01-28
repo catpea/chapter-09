@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Shoe Shine; Or, Fixing The Feline Workout / Shuffle Dancing At The Gym And Achy Feet](docs/poem-1427.mp3)
 - [The Incredible Distance](docs/poem-1426.mp3)
 - [Make Learning Camping A Bit Easier; Or, Bug Repellent, Narrated Books, Handy Dandy Saw, And Cut Proof Gloves](docs/poem-1425.mp3)
 - [The Secret Society Of Extraordinary Kitties: Full Disclosure](docs/poem-1424.mp3)
