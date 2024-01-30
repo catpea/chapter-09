@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [One Thing Done Well; Or, The Two Reasons Why Programming Seems Scary](docs/poem-1429.mp3)
 - [Bodybuilding Is Easy](docs/poem-1428.mp3)
 - [Shoe Shine; Or, Fixing The Feline Workout / Shuffle Dancing At The Gym And Achy Feet](docs/poem-1427.mp3)
 - [The Incredible Distance](docs/poem-1426.mp3)
