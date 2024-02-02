@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Walking, Hiking, And Dancing; Or, Gradually Increasing Endurance To Transform Your Body](docs/poem-1432.mp3)
 - [My Garbage Slippers: Or, Fixing The Dance Floor](docs/poem-1431.mp3)
 - [The Magic Of Athletic Endurance, For The Rest Of Us](docs/poem-1430.mp3)
 - [One Thing Done Well; Or, The Two Reasons Why Programming Seems Scary](docs/poem-1429.mp3)
