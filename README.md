@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Before You Sign Up For The Gym; Or, Walk Before You Run](docs/poem-1437.mp3)
 - [Where To Start Learning Programming? A Quick Little Answer For The Rest Of Us](docs/poem-1436.mp3)
 - [What Would A Kitty Ask, If It Could Handle Such A Task](docs/poem-1435.mp3)
 - [The Year Of The Bicycle](docs/poem-1434.mp3)
