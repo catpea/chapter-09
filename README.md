@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Little Trick That Makes Bro Science Stick](docs/poem-1440.mp3)
 - [You Must Become A Philosopher; Or, To Reject Philosophy Is To Reject Your Elder Self](docs/poem-1439.mp3)
 - [The Large Knights Of Potatoes; Or, Become A Trail Guide](docs/poem-1438.mp3)
 - [Before You Sign Up For The Gym; Or, Walk Before You Run](docs/poem-1437.mp3)
