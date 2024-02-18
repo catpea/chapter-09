@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Towards Simple Reactive OOP; Or, The Trouble With Programming](docs/poem-1448.mp3)
 - [Um, Are The Groundhogs Messing With Us?](docs/poem-1447.mp3)
 - [Speedrunning Bodybuilding](docs/poem-1446.mp3)
 - [This Is An Interval Timer; Or, A Workout Must Flow](docs/poem-1445.mp3)
