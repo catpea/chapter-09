@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [First Time At The Gym; Or, Heavy Or Light](docs/poem-1449.mp3)
 - [Towards Simple Reactive OOP; Or, The Trouble With Programming](docs/poem-1448.mp3)
 - [Um, Are The Groundhogs Messing With Us?](docs/poem-1447.mp3)
 - [Speedrunning Bodybuilding](docs/poem-1446.mp3)
