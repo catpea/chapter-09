@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Michigan Weather Report 2024](docs/poem-1473.mp3)
 - [The Correct Posture For Lifting Is Dance; Or, Don’t Be Fooled By Bro Science](docs/poem-1472.mp3)
 - [How To Become A Genius](docs/poem-1471.mp3)
 - [Advice For Trainers](docs/poem-1470.mp3)
