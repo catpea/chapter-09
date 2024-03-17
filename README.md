@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Hard Adventure; Or, A Workout Is The Worst Thing You Can Do](docs/poem-1476.mp3)
 - [Meaningful Diet & Weight Loss](docs/poem-1475.mp3)
 - [Train Before You Sign Up For The Gym](docs/poem-1474.mp3)
 - [Michigan Weather Report 2024](docs/poem-1473.mp3)
