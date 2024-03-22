@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Temples Of Solitude, And The Arrow Of Adventure](docs/poem-1481.mp3)
 - [For The Betterment Of The World; Or, Hiking, Camping, And The Library](docs/poem-1480.mp3)
 - [Don’t Let Silly Challenges Of Hiking And Camping Scare You Away From Greatness](docs/poem-1479.mp3)
 - [Is School Fake?](docs/poem-1478.mp3)
