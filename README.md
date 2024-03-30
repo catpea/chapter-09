@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Devil In The Details; Or, What The Hell Have I Been Inventing Anyways?](docs/poem-1489.mp3)
 - [How To Tell If Your School Is Fake](docs/poem-1488.mp3)
 - [The King Of Nordhouse](docs/poem-1487.mp3)
 - [Fitness Advice: Sets, Reps, And Proper Posture Is Not All That Great](docs/poem-1486.mp3)
