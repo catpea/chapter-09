@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The European Cowboy](docs/poem-1492.mp3)
 - [Computer Mouse: The Meanest Creature In The World; Or, A Programmer's Lament](docs/poem-1491.mp3)
 - [Bodybuilding For Ladies](docs/poem-1490.mp3)
 - [The Devil In The Details; Or, What The Hell Have I Been Inventing Anyways?](docs/poem-1489.mp3)
