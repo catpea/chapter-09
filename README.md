@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Potato Bodybuilding; A Workout Program So Simple Even A Vegetable Can Get Buff](docs/poem-1494.mp3)
 - [Artificial Intelligence Means It Is Time To Learn Programming; Or; The Call Of Interactive Fiction](docs/poem-1493.mp3)
 - [The European Cowboy](docs/poem-1492.mp3)
 - [Computer Mouse: The Meanest Creature In The World; Or, A Programmer's Lament](docs/poem-1491.mp3)
