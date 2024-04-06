@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [Bodybuilding Confusion: Don’t Lift Heavy, Lift A Lot, And Sets And Reps Are Sus](docs/poem-1496.mp3)
 - [The Golden Hoagie; Or, A Rare Spiced Pigeon Hoagie With A Side Of Pierogie](docs/poem-1495.mp3)
 - [Potato Bodybuilding; A Workout Program So Simple Even A Vegetable Can Get Buff](docs/poem-1494.mp3)
 - [Artificial Intelligence Means It Is Time To Learn Programming; Or; The Call Of Interactive Fiction](docs/poem-1493.mp3)
