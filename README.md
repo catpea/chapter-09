@@ -9,6 +9,7 @@ We appreciate your help in making the audiobook experience better for all the li
 
 As always you can download the latest version at https://archive.org/details/@catpea-com
 
+- [The Eclipse Is Over, But I Still See A Circle; What Do?](docs/poem-1501.mp3)
 - [Fitness & Bodybuilding: Begin At The Beginning](docs/poem-1500.mp3)
 - [How To Improve Your Grades](docs/poem-1499.mp3)
 - [How To Avoid War And Fix The World: Tell The Teenagers The Truth About Everything](docs/poem-1498.mp3)
